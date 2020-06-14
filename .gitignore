@@ -1,0 +1,10 @@
+# mac OSX generate
+
+._*
+
+# KiCAD generate files
+*.pcb-bak
+*.sch-bak
+fp-info-cache
+*.kicad_pcb-bak
+*-cache.lib
