@@ -165,9 +165,9 @@ Wire Wire Line
 	2250 1500 2700 1500
 Wire Wire Line
 	2500 1600 2700 1600
-Text Label 2600 1500 0    50   ~ 0
-D+
 Text Label 2600 1600 0    50   ~ 0
+D+
+Text Label 2600 1500 0    50   ~ 0
 D-
 $Comp
 L power:VCC #PWR0106
@@ -930,7 +930,6 @@ NoConn ~ 6100 3650
 NoConn ~ 6100 3950
 NoConn ~ 6100 4650
 NoConn ~ 6100 4750
-NoConn ~ 6100 5050
 NoConn ~ 6100 5350
 NoConn ~ 6100 5450
 NoConn ~ 1750 1900
@@ -1046,4 +1045,19 @@ Text Notes 7100 7000 0    100  ~ 0
 NCK-4-20-C
 Text Notes 10550 7650 0    50   ~ 0
 1.0\n
+Wire Wire Line
+	6100 5050 6500 5050
+Wire Wire Line
+	6500 5050 6500 5200
+$Comp
+L power:GNDPWR #PWR?
+U 1 1 5F1881B4
+P 6500 5200
+F 0 "#PWR?" H 6500 5000 50  0001 C CNN
+F 1 "GNDPWR" H 6504 5046 50  0000 C CNN
+F 2 "" H 6500 5150 50  0001 C CNN
+F 3 "" H 6500 5150 50  0001 C CNN
+	1    6500 5200
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
