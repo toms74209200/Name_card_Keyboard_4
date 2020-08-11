@@ -15,7 +15,7 @@
 
 ## Schematic
 
-See [name_card_keyboard.pdf](../pcb/name_card_keyboard.pdf).
+See [s4scarlet.pdf](../pcb/s4scarlet.pdf).
 
 ### Pin assignment
 

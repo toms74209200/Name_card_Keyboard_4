@@ -1,10 +1,10 @@
-# Name_card_Keyboard_4
+# Study 4 Scarlet
 
-![PCB 3D view](./pcb/name_card_keyboard.jpg)
+![PCB 3D view](./pcb/s4scarlet.jpg)
 
 - 4 Keyboard
 - Kailh Choc type
-- Name card size
+- Business card size(91mm x 55mm)
 - arduino(Pro micro) compatible
 - USB type-C interface
 

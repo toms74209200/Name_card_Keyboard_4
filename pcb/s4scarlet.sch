@@ -924,7 +924,7 @@ row1
 Wire Wire Line
 	6100 3850 6550 3850
 Text Notes 7100 6800 0    100  ~ 0
-THE STUDY IN SCARLET
+STUDY 4 SCARLET
 NoConn ~ 6100 2950
 NoConn ~ 6100 3650
 NoConn ~ 6100 3950
@@ -963,7 +963,7 @@ Connection ~ 4800 2950
 Text Notes 8100 7650 0    50   ~ 0
 2020.06.07
 Text Notes 7350 7500 0    50   ~ 0
-Name card size 4 keyboard
+Business card size 4 keyboard
 $Comp
 L Device:Crystal_Small Y1
 U 1 1 5E9ADC70

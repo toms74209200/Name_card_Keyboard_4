@@ -15,7 +15,7 @@
 
 ## 回路図
 
-回路図は [name_card_keyboard.pdf](../pcb/name_card_keyboard.pdf) をご覧ください.
+回路図は [s4scarlet.pdf](../pcb/s4scarlet.pdf) をご覧ください.
 
 ### ピン配列
 
