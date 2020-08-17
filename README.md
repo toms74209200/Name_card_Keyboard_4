@@ -1,6 +1,6 @@
 # Study 4 Scarlet
 
-![PCB 3D view](./pcb/s4scarlet.jpg)
+![Keyboard](./docs/keyboard_image.jpg)
 
 - 4 Keyboard
 - Kailh Choc type
